@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://huggingface.co"><img src="https://shields.io" alt="HuggingFace"></a>
   <a href="https://github.com"><img src="https://shields.io" alt="Followers"></a>
+  <img src="https://komarev.com" alt="Profile Views" />
 </p>
 
 ---
